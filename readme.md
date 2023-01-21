@@ -27,6 +27,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os habitos.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Visite o projeto online](https://isaqueromano.github.io/Habits-Romano/)
+
+- [Acesse o projeto finalizado, online](https://isaqueromano.github.io/Habits-Romano/)
 
 Feito por Isaque Romano com a instrução da Rocketseat!
